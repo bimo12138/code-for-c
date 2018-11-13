@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  bubbleSort.cpp
+c:\users\bimo\source\repos\bubblesort\bubblesort\bubblesort.cpp(28): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  All 19 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  bubbleSort.vcxproj -> C:\Users\bimo\source\repos\bubbleSort\Release\bubbleSort.exe

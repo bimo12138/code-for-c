@@ -1,0 +1,3 @@
+﻿  partion.cpp
+c:\users\bimo\source\repos\partion\partion\partion.cpp(29): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  partion.vcxproj -> C:\Users\bimo\source\repos\partion\Debug\partion.exe
