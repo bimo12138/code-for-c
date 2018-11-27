@@ -1,0 +1,4 @@
+﻿  32题.cpp
+c:\users\bimo\source\repos\32题\32题\32题.cpp(10): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+c:\users\bimo\source\repos\32题\32题\32题.cpp(31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  32题.vcxproj -> C:\Users\bimo\source\repos\32题\Debug\32题.exe
